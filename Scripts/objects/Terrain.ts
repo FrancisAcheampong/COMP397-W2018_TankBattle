@@ -1,4 +1,4 @@
-module objects {
+  module objects {
     export class Terrain extends objects.GameObject {
       // private instance variables
 
